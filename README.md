@@ -42,8 +42,6 @@ No duplicates were found.
 
 Data types for 'number_award_nominations' and 'number_award_wons' columns were corrected.
 
-Exploratory Data Analysis (EDA)
-
 ## Movies Analysis:
 
 ROI was calculated to identify the most profitable genres.
